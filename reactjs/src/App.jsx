@@ -1,6 +1,7 @@
 import Hell from "./hell"
 import Papa from "./papa"
 import Ram from "./ram"
+import Jio from "./jio"
 function App(){
   return(
     <>
@@ -8,6 +9,7 @@ function App(){
     <Papa/>
     <Ram/>
     <Hell/>
+    <Jio/>
     </>
   )
 }
